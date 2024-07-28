@@ -83,6 +83,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.2.1, asdf: 3.2.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v6.7.0, asdf: 3.2.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="reline (v0.5.9, asdf: 3.2.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubygems-update (v3.5.4, asdf: 3.2.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="stringio (v3.1.1, asdf: 3.2.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v1.3.1, asdf: 3.2.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="timeout (v0.4.1, asdf: 3.2.1) [gem]" level="application" />
