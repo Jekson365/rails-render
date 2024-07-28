@@ -79,6 +79,7 @@ test:
 #
 production:
   <<: *default
+  url: <% ENV['DATABASE_URL'] %>
   database: dasdduntitled3_production
   username: dasdduntitled3
   password: <%= ENV["DASDDUNTITLED3_DATABASE_PASSWORD"] %>
